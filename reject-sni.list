@@ -1,0 +1,364 @@
+#	Amazon（日本） Start
+DOMAIN,amazon.co.jp
+DOMAIN-WILDCARD,*.amazon.co.jp
+#	Amazon（日本） End
+#	APKMirror Start
+DOMAIN,apkmirror.com
+DOMAIN-WILDCARD,*.apkmirror.com
+#	APKMirror End
+#	Archive of Our Own Start
+DOMAIN,archiveofourown.org
+DOMAIN-WILDCARD,*.archiveofourown.org
+#	Archive of Our Own End
+#	BBC Start
+DOMAIN,bbc.com
+DOMAIN-WILDCARD,*.bbc.com
+DOMAIN-WILDCARD,*.*.bbc.com
+DOMAIN,bbc.co.uk
+DOMAIN-WILDCARD,*.bbc.co.uk
+DOMAIN-WILDCARD,*.*.bbc.co.uk
+DOMAIN,bbci.co.uk
+DOMAIN-WILDCARD,*.bbci.co.uk
+DOMAIN-WILDCARD,*.*.bbci.co.uk
+#	BBC End
+#	Dailymotion Start
+DOMAIN,dailymotion.com
+DOMAIN-WILDCARD,*.dailymotion.com
+DOMAIN-WILDCARD,*.api.dailymotion.com
+#	Dailymotion End
+#	Discord Start
+DOMAIN,discord.com
+DOMAIN-WILDCARD,*.discord.com
+DOMAIN,discord.gg
+DOMAIN-WILDCARD,*.discord.gg
+DOMAIN,discordapp.com
+DOMAIN-WILDCARD,*.discordapp.com
+DOMAIN,discordapp.net
+DOMAIN-WILDCARD,*.discordapp.net
+#	Discord End
+#	Docker Hub Start
+DOMAIN,hub.docker.com
+#	Docker Hub End
+#	Dropbox Start
+DOMAIN,dropbox.com
+DOMAIN-WILDCARD,*.dropbox.com
+#	Dropbox End
+#	DuckDuckGo Start
+DOMAIN,duckduckgo.com
+DOMAIN-WILDCARD,*.duckduckgo.com
+#	DuckDuckGo End
+#	E-Hentai Start
+DOMAIN,e-hentai.org
+DOMAIN-WILDCARD,*.e-hentai.org
+DOMAIN,exhentai.org
+DOMAIN-WILDCARD,*.exhentai.org
+DOMAIN,ehgt.org
+DOMAIN-WILDCARD,*.ehgt.org
+#	E-Hentai End
+#	Etsy Start
+DOMAIN,etsy.com
+DOMAIN-WILDCARD,*.etsy.com
+#	Etsy End
+#	Facebook Start
+DOMAIN,facebook.com
+DOMAIN-WILDCARD,*.facebook.com
+DOMAIN,fbcdn.net
+DOMAIN-WILDCARD,*.fbcdn.net
+#	Facebook End
+#	F-Droid Start
+DOMAIN,f-droid.org
+DOMAIN-WILDCARD,*.f-droid.org
+#	F-Droid End
+#	Flickr Start
+DOMAIN,flickr.com
+DOMAIN-WILDCARD,*.flickr.com
+#	Flickr End
+#	Gelbooru Start
+DOMAIN,gelbooru.com
+DOMAIN-WILDCARD,*.gelbooru.com
+DOMAIN,rmzsglng.com
+DOMAIN-WILDCARD,*.rmzsglng.com
+#	Gelbooru End
+#	Github Start
+DOMAIN,github.com
+DOMAIN-WILDCARD,*.github.com
+DOMAIN,githubusercontent.com
+DOMAIN-WILDCARD,*.githubusercontent.com
+DOMAIN,githubassets.com
+DOMAIN-WILDCARD,*.githubassets.com
+DOMAIN,github.io
+DOMAIN-WILDCARD,*.github.io
+#	Github End
+#	Google Start
+DOMAIN-WILDCARD,google.*
+DOMAIN-WILDCARD,*.google
+DOMAIN-WILDCARD,*.google.*
+DOMAIN-WILDCARD,*.*.google
+DOMAIN-WILDCARD,*.*.google.*
+DOMAIN,googleapis.com
+DOMAIN-WILDCARD,*.googleapis.com
+#	Google End
+#	Gravatar Start
+DOMAIN,gravatar.com
+DOMAIN-WILDCARD,*.gravatar.com
+#	Gravatar End
+#	Greasy Fork Start
+DOMAIN,greasyfork.org
+DOMAIN-WILDCARD,*.greasyfork.org
+#	Greasy Fork End
+#	Hugging Face Start
+DOMAIN,huggingface.co
+DOMAIN-WILDCARD,*.huggingface.co
+#	Hugging Face End
+#	Imgur Start
+DOMAIN,imgur.com
+DOMAIN-WILDCARD,*.imgur.com
+#	Imgur End
+#	Instagram Start
+DOMAIN,instagram.com
+DOMAIN-WILDCARD,*.instagram.com
+DOMAIN,instagr.am
+DOMAIN-WILDCARD,*.instagr.am
+DOMAIN,ig.me
+DOMAIN-WILDCARD,*.ig.me
+DOMAIN,static.cdninstagram.com
+DOMAIN-WILDCARD,*.cdninstagram.com
+DOMAIN-WILDCARD,*.*.fna.fbcdn.net
+#	Instagram End
+#	Iwara Start
+DOMAIN,iwara.tv
+DOMAIN-WILDCARD,*.iwara.tv
+DOMAIN-WILDCARD,*.*.iwara.tv
+#	Iwara End
+#	MEGA Start
+DOMAIN,mega.nz
+DOMAIN-WILDCARD,*.mega.nz
+DOMAIN,mega.io
+DOMAIN-WILDCARD,*.mega.io
+DOMAIN,api.mega.co.nz
+DOMAIN-WILDCARD,*.api.mega.co.nz
+#	MEGA End
+#	Nyaa Start
+DOMAIN,nyaa.si
+DOMAIN-WILDCARD,*.nyaa.si
+#	Nyaa End
+#	OK Start
+DOMAIN,ok.ru
+DOMAIN-WILDCARD,*.ok.ru
+#	OK End
+#	OKX.COM Start
+DOMAIN,okx.com
+DOMAIN-WILDCARD,*.okx.com
+#	OKX.COM End
+#	OneDrive Live Start
+DOMAIN,onedrive.live.com
+#	OneDrive Live End
+#	Patreon Start
+DOMAIN,patreon.com
+DOMAIN-WILDCARD,*.patreon.com
+DOMAIN,patreonusercontent.com
+DOMAIN-WILDCARD,*.patreonusercontent.com
+#	Patreon End
+#	Pinterest Start
+DOMAIN,pinterest.com
+DOMAIN-WILDCARD,*.pinterest.com
+DOMAIN,pinimg.com
+DOMAIN-WILDCARD,*.pinimg.com
+#	Pinterest End
+#	Pixiv Start
+DOMAIN,pixiv.net
+DOMAIN-WILDCARD,*.pixiv.net
+DOMAIN-WILDCARD,*.*.pixiv.net
+DOMAIN,pximg.net
+DOMAIN-WILDCARD,*.pximg.net
+DOMAIN,pixiv.org
+DOMAIN-WILDCARD,*.pixiv.org
+#	Pixiv End
+#	pixivFANBOX Start
+DOMAIN,fanbox.cc
+DOMAIN,api.fanbox.cc
+DOMAIN-WILDCARD,*.fanbox.cc
+#	pixivFANBOX End
+#	Pornhub Start
+DOMAIN,pornhub.com
+DOMAIN-WILDCARD,*.pornhub.com
+DOMAIN,gstatic.com
+DOMAIN-WILDCARD,*.gstatic.com
+DOMAIN,jsdelivr.net
+DOMAIN,cdn.jsdelivr.net
+#	Pornhub End
+#	Prismic Images Start
+DOMAIN,images.prismic.io
+#	Prismic Images End
+#	Proton Start
+DOMAIN,proton.me
+DOMAIN-WILDCARD,*.proton.me
+#	Proton End
+#	Reddit Start
+DOMAIN,reddit.com
+DOMAIN-WILDCARD,*.reddit.com
+DOMAIN,redd.it
+DOMAIN-WILDCARD,*.redd.it
+DOMAIN,redditmedia.com
+DOMAIN-WILDCARD,*.redditmedia.com
+DOMAIN,redditstatic.com
+DOMAIN-WILDCARD,*.redditstatic.com
+#	Reddit End
+#	RFI Start
+DOMAIN,rfi.fr
+DOMAIN-WILDCARD,*.rfi.fr
+#	RFI End
+#	Rule34Video Start
+DOMAIN,rule34video.com
+DOMAIN-WILDCARD,*.rule34video.com
+#	Rule34Video End
+#	Rumble Start
+DOMAIN,rumble.com
+DOMAIN-WILDCARD,*.rumble.com
+#	Rumble End
+#	Rutube Start
+DOMAIN,rutube.ru
+DOMAIN-WILDCARD,*.rutube.ru
+#	Rutube End
+#	Sankaku Complex Start
+DOMAIN,sankakucomplex.com
+DOMAIN,s.sankakucomplex.com
+DOMAIN,v.sankakucomplex.com
+DOMAIN,f.sankakucomplex.com
+DOMAIN,chan.sankakucomplex.com
+DOMAIN,legacy.sankakucomplex.com
+DOMAIN,login.sankakucomplex.com
+DOMAIN,news.sankakucomplex.com
+DOMAIN,forum.sankakucomplex.com
+DOMAIN,legal.sankakucomplex.com
+DOMAIN,static.sankakucomplex.com
+DOMAIN-WILDCARD,*.sankakucomplex.com
+#	Sankaku Complex End
+#	Steam Community Start
+DOMAIN,steamcommunity.com
+DOMAIN-WILDCARD,*.steamcommunity.com
+#	Steam Community End
+#	Steam Store Start
+DOMAIN,store.steampowered.com
+#	Steam Store End
+#	Tails Start
+DOMAIN,tails.net
+DOMAIN-WILDCARD,*.tails.net
+#	Tails End
+#	Telegram Start
+DOMAIN,t.me
+DOMAIN-WILDCARD,*.t.me
+DOMAIN,tg.dev
+DOMAIN-WILDCARD,*.tg.dev
+DOMAIN,telesco.pe
+DOMAIN-WILDCARD,*.telesco.pe
+DOMAIN,telegram.me
+DOMAIN-WILDCARD,*.telegram.me
+DOMAIN,cdn-telegram.org
+DOMAIN-WILDCARD,*.cdn-telegram.org
+DOMAIN,telegram.org
+DOMAIN-WILDCARD,*.telegram.org
+DOMAIN,web.telegram.org
+DOMAIN-WILDCARD,*.web.telegram.org
+#	Telegram End
+#	The New York Times Start
+DOMAIN,nytimes.com
+DOMAIN-WILDCARD,*.nytimes.com
+DOMAIN-WILDCARD,*.*.nytimes.com
+DOMAIN,nyt.com
+DOMAIN-WILDCARD,*.nyt.com
+#	The New York Times End
+#	TheTVDB Start
+DOMAIN,thetvdb.com
+DOMAIN-WILDCARD,*.thetvdb.com
+#	TheTVDB End
+#	Twitch Start
+DOMAIN,twitch.tv
+DOMAIN-WILDCARD,*.twitch.tv
+DOMAIN-WILDCARD,*.chat.twitch.tv
+#	Twitch End
+#	V2EX Start
+DOMAIN,v2ex.com
+DOMAIN-WILDCARD,*.v2ex.com
+#	V2EX End
+#	Vercel Start
+DOMAIN,vercel.app
+DOMAIN-WILDCARD,*.vercel.app
+#	Vercel End
+#	Wallhaven Start
+DOMAIN,wallhaven.cc
+DOMAIN-WILDCARD,*.wallhaven.cc
+#	Wallhaven End
+#	WGCZ Holding Start
+DOMAIN,xvideos.com
+DOMAIN-WILDCARD,*.xvideos.com
+DOMAIN,xnxx.com
+DOMAIN-WILDCARD,*.xnxx.com
+#	WGCZ Holding End
+#	WhatsApp Start
+DOMAIN,whatsapp.com
+DOMAIN-WILDCARD,*.whatsapp.com
+DOMAIN,whatsapp.net
+DOMAIN-WILDCARD,*.whatsapp.net
+#	WhatsApp End
+#	Wikimedia Foundation Start
+DOMAIN,wikipedia.org
+DOMAIN-WILDCARD,*.wikipedia.org
+DOMAIN-WILDCARD,*.m.wikipedia.org
+DOMAIN,wikimedia.org
+DOMAIN-WILDCARD,*.wikimedia.org
+DOMAIN-WILDCARD,*.m.wikimedia.org
+DOMAIN,wikivoyage.org
+DOMAIN-WILDCARD,*.wikivoyage.org
+DOMAIN-WILDCARD,*.m.wikivoyage.org
+DOMAIN,wiktionary.org
+DOMAIN-WILDCARD,*.wiktionary.org
+DOMAIN-WILDCARD,*.m.wiktionary.org
+DOMAIN,wikibooks.org
+DOMAIN-WILDCARD,*.wikibooks.org
+DOMAIN-WILDCARD,*.m.wikibooks.org
+DOMAIN,wikinews.org
+DOMAIN-WILDCARD,*.wikinews.org
+DOMAIN-WILDCARD,*.m.wikinews.org
+DOMAIN,wikidata.org
+DOMAIN-WILDCARD,*.wikidata.org
+DOMAIN,wikiversity.org
+DOMAIN-WILDCARD,*.wikiversity.org
+DOMAIN-WILDCARD,*.m.wikiversity.org
+DOMAIN,wikiquote.org
+DOMAIN-WILDCARD,*.wikiquote.org
+DOMAIN-WILDCARD,*.m.wikiquote.org
+DOMAIN,mediawiki.org
+DOMAIN-WILDCARD,*.mediawiki.org
+DOMAIN,wikisource.org
+DOMAIN-WILDCARD,*.wikisource.org
+DOMAIN-WILDCARD,*.m.wikisource.org
+DOMAIN,wikifunctions.org
+DOMAIN-WILDCARD,*.wikifunctions.org
+#	Wikimedia Foundation End
+#	X Start
+DOMAIN,twitter.com
+DOMAIN-WILDCARD,*.twitter.com
+DOMAIN,x.com
+DOMAIN-WILDCARD,*.x.com
+DOMAIN,t.co
+DOMAIN-WILDCARD,*.t.co
+DOMAIN,twimg.com
+DOMAIN-WILDCARD,*.twimg.com
+#	X End
+#	YouTube Start
+DOMAIN,youtube.com
+DOMAIN-WILDCARD,*.youtube.com
+DOMAIN,ytimg.com
+DOMAIN-WILDCARD,*.ytimg.com
+DOMAIN,ggpht.com
+DOMAIN-WILDCARD,*.ggpht.com
+DOMAIN,googlevideo.com
+DOMAIN-WILDCARD,*.googlevideo.com
+#	YouTube End
+#	Z-Library Start
+DOMAIN,1lib.sk
+DOMAIN-WILDCARD,*.1lib.sk
+DOMAIN,z-lib.fm
+DOMAIN-WILDCARD,*.z-lib.fm
+#	Z-Library End
